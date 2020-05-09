@@ -1,0 +1,12 @@
+narif\poc\cloudnative\service\UserService.class
+narif\poc\cloudnative\model\BlogUser.class
+narif\poc\cloudnative\restapi\UserRestApi$1.class
+narif\poc\cloudnative\model\BlogPost.class
+narif\poc\cloudnative\config\ApplicationConfig.class
+narif\poc\cloudnative\service\BlogService.class
+narif\poc\cloudnative\repository\BlogPostRepo.class
+narif\poc\cloudnative\model\BlogPostContent.class
+narif\poc\cloudnative\model\CommonAuditEntries.class
+narif\poc\cloudnative\restapi\UserRestApi.class
+narif\poc\cloudnative\repository\UserRepository.class
+narif\poc\cloudnative\restapi\EchoService.class
