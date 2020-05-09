@@ -18,11 +18,6 @@ public class UserRestApi {
     @EJB
     private UserService userService;
 
-    @PostConstruct
-    public void init(){
-        System.out.println("REST API INITIATED!!");
-    }
-
     @GET
     public Response getAllUsers(){
         GenericEntity<List<BlogUser>> ge = new GenericEntity<>(userService.getAllUsers()){};
